@@ -1,6 +1,6 @@
 a=int(input("enter first num"))
 b=int(input("second num"))
 if (a>b):
-    print("a is large")
+    print(" is large")
 else:
     print("b is large")
