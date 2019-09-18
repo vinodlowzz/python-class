@@ -1,3 +1,1 @@
-a=5
-b=6
-print(a+b)
+print(int(input("enter first num"))+ int(input("second num")))
