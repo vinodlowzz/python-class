@@ -1,4 +1,6 @@
 def add(x,y):
     c=x+y
     print(c)
-add(3,4)
+def sub(f,g):
+    s=f-g
+    print(s)
