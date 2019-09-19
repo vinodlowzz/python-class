@@ -1,6 +1,4 @@
-def add():
-    a=2
-    b=4
-    c=a+b
+def add(x,y):
+    c=x+y
     print(c)
-add()
+add(3,4)
